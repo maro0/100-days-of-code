@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
+ 
+### Day 1: 2021/01/30
+** やったこと **
 
+* 購入したPCの環境設定
+** OculusLinkを設定
+** ipadとの連携
+
+** 思ったこと **
+
+
+## 書き方の例↓
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
